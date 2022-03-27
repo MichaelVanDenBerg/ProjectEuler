@@ -1,0 +1,1 @@
+alias ProjectEuler, as: Euler
