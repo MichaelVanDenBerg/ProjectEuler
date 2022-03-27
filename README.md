@@ -18,5 +18,5 @@ The problems range in difficulty and for many the experience is inductive chain 
 
 ## Useful links
 
-[Project Euler](https://projecteuler.net)
-[Elixir](https://elixir-lang.org)
+* [Project Euler](https://projecteuler.net)
+* [Elixir](https://elixir-lang.org)
